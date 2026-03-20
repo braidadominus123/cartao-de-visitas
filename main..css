@@ -1,0 +1,29 @@
+
+
+p, h1 {
+    color:blue;
+}
+/*seletor de id*/
+#paragrafo2{
+    color:red;
+}
+
+
+#bilheteria{
+    background-color:lightcoral;
+}
+
+
+.linha-azul{
+  background-color: blue;
+
+
+}
+
+/*seletor de pseudoclasse*/
+a:hover{
+    background-color: aqua;
+    color: aliceblue;
+}
+
+
